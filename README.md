@@ -29,5 +29,5 @@ This repository includes the four tasks I have done in phase 1 of the training a
 ## Task 4
 **4.1** It is a Python code for a game between Gru and Vector.
 
-**4.2** It is a Python code to apply the principle of machine learning on a given dataset.
+**4.2** It is a Python code to apply the principle of machine learning on a given dataset using googlecolab.
 
